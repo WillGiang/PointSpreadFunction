@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: Resolution
+description: A blog from the perspective of a light microscopy core facility scientist whose last biology class was in high school. 
 github_username: WillGiang
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "PointSpreadFunction"
@@ -38,7 +38,7 @@ baseurl: "/PointSpreadFunction" # the subpath of your site, e.g. "/blog".
 
 # Email and twitter are optional:
 email: 
-twitter_username: "fastdotai"
+twitter_username: "MixIndentations"
 
 # Set this to true to get LaTeX math equation support
 use_math: 
